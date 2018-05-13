@@ -1,5 +1,5 @@
 # sisyphus
-New tracks for the Sisyphus Industries Kinetic Art Table, an amazing addition to your home which can be seen at https://sisyphus-industries.com/
+New tracks for the Sisyphus Industries Kinetic Art Table, an amazing addition to your home which can be seen at https://sisyphus-industries.com?raf=ref7582315
 
 In the "thr_paths" folder, browse the PNG files for generated thumbnails of the tracks, browse the JPG files for photographs of the tracks on the actual table, and download the THR files for the actual tracks. Using the table's web interface, upload the THR file to the table and then add to a playlist.
 
