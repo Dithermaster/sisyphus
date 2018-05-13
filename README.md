@@ -4,6 +4,7 @@ New tracks for the Sisyphus Industries Kinetic Art Table, an amazing addition to
 In the "thr_paths" folder, browse the PNG files for generated thumbnails of the tracks, browse the JPG files for photographs of the tracks on the actual table, and download the THR files for the actual tracks. Using the table's web interface, upload the THR file to the table and then add to a playlist.
 
 Using the web interface: https://sisyphus-industries.com/connecting-to-your-table-with-a-browser/
+
 More information on custom tracks: https://sisyphus-industries.com/how-do-i-get-more-tracks-paths/
 
 Someday when the Community section of the app is working you'll be able to access these custom tracks using that interface, but until then, you'll have to upload them manually. Note: bulk upload is possible, just multi-select the files during the upload step.
